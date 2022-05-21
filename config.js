@@ -2,7 +2,7 @@
 * Thanks To
 * Allah S.W.T
 * Ortu
-* Riyo XDZ
+* Marcell Store
 * Dhika Ardiant
 * All Creator Bot
 * All Subscriber Ku
@@ -34,7 +34,7 @@ global.mess = {
     admin: 'Fitur Khusus Admin Group Bang!',
     botAdmin: 'Jadiin Admin Dulu Lah Bot Nya Tolol Kali Kau Bang',
     eror: 'Yah Eror kak',
-    owner: 'Fitur Khusus Riyo XDZ',
+    owner: 'Fitur Khusus MARCELL STORE',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
